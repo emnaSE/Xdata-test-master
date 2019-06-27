@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Xdata Core
+Comment=Xdata P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Xdata peer-to-peer Netzwerk
+Comment[fr]=Xdata, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Xdata, eşten eşe kriptografik sanal para birimi
+Exec=xdata-qt %u
+Terminal=false
+Type=Application
+Icon=xdata128
+MimeType=x-scheme-handler/xdata;
+Categories=Office;Finance;

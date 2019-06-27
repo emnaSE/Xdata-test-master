@@ -1,0 +1,6 @@
+usr/local/bin/xdata-qt usr/bin
+share/pixmaps/xdata32.xpm usr/share/pixmaps
+share/pixmaps/xdata16.xpm usr/share/pixmaps
+share/pixmaps/xdata128.png usr/share/pixmaps
+debian/xdata-qt.desktop usr/share/applications
+debian/xdata-qt.protocol usr/share/kde4/services/
